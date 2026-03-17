@@ -37,6 +37,7 @@ This project demonstrates several core Power BI skills including:
 ## Sales Data Dashboard
 
 ![Sales Dashboard](Sales-Data-Dashboard.png)
+[Link to My Project](https://app.powerbi.com/links/crRzA0nk3j?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 
 This dashboard provides an overview of sales performance across products and categories. It highlights key sales metrics and allows users to explore trends within the dataset.
 
